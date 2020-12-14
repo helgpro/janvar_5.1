@@ -1,0 +1,113 @@
+***  Installation Started 03/17/2010 12:17  ***
+Title: J5 Online Tuner v.1.10 Installation
+Source: D:\distrib\autosoft\olt\j5\SetupJ5OLT.EXE | 08-15-2005 | 14:51:02 | 8745133
+Made Dir: C:\Program Files\J5OLT
+File Copy: C:\Program Files\J5OLT\UNWISE.EXE | 07-19-2002 | 10:50:16 | | 153088 | 5be5019b
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\J5 Online Tuner v.1.10
+RegDB Val: J5 Online Tuner v.1.10
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\J5 Online Tuner v.1.10
+RegDB Val: C:\PROGRA~1\J5OLT\UNWISE.EXE C:\PROGRA~1\J5OLT\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\Program Files\J5OLT\J5OLT.exe | 08-15-2005 | 14:47:22 | 1.1.0.1424 | 480768 | bb6f5525
+Made Dir: C:\Program Files\J5OLT\CombiLDR-218
+File Copy: C:\Program Files\J5OLT\CombiLDR-218\CombiLDR210_Help.exe | 06-20-2005 | 14:07:06 | 1.0.1.0 | 3589682 | a41972c5
+File Copy: C:\Program Files\J5OLT\CombiLDR-218\CombiLDR218.exe | 08-08-2004 | 13:30:50 | 2.1.8.3 | 513024 | 192c7ec5
+File Copy: C:\Program Files\J5OLT\CombiLDR-218\alrm.dll | 06-11-2004 | 21:14:06 | | 22016 | 37eb1b33
+File Copy: C:\Program Files\J5OLT\j5tuner.GID | 03-30-2005 | 19:30:46 | | 10850 | 692f35ca
+File Copy: C:\Program Files\J5OLT\license.txt | 11-18-2004 | 13:04:24 | | 266 | 9ff7a146
+Made Dir: C:\Program Files\J5OLT\BIR-ENGINE
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V03L25.bir | 04-14-2004 | 01:14:16 | | 65536 | 314256e6
+Made Dir: C:\Program Files\J5OLT\STANDART
+File Copy: C:\Program Files\J5OLT\STANDART\J5v07g26.bin | 05-24-2000 | 16:51:30 | | 65536 | f7989550
+File Copy: C:\Program Files\J5OLT\STANDART\J5v03j21.bin | 05-22-2001 | 16:41:28 | | 65536 | 2f522fd3
+File Copy: C:\Program Files\J5OLT\STANDART\J5V13L05.bin | 02-19-2004 | 14:09:34 | | 65536 | 4adf2b82
+File Copy: C:\Program Files\J5OLT\STANDART\J5v13i02.bin | 04-18-2001 | 23:16:08 | | 65536 | 5f6db5b5
+File Copy: C:\Program Files\J5OLT\STANDART\j5v05m30.bin | 12-22-2003 | 16:25:08 | | 65536 | 10a549b3
+File Copy: C:\Program Files\J5OLT\STANDART\J5v05l19a.bin | 08-13-2003 | 21:42:08 | | 65536 | a36a1a17
+File Copy: C:\Program Files\J5OLT\STANDART\J5v05j16.bin | 05-21-2001 | 15:33:12 | | 65536 | 98b2109f
+File Copy: C:\Program Files\J5OLT\STANDART\J5v05h16.bin | 03-16-2000 | 17:06:40 | | 65536 | 5a43462f
+File Copy: C:\Program Files\J5OLT\STANDART\J5v03l25.bin | 12-23-2003 | 08:50:20 | | 65536 | c08ff6d0
+File Copy: C:\Program Files\J5OLT\STANDART\J5v03i21.bin | 06-23-2000 | 11:46:14 | | 65536 | 21271293
+File Copy: C:\Program Files\J5OLT\STANDART\J5v03h21.bin | 05-09-2001 | 09:59:34 | | 65536 | 3b6f3a38
+File Copy: C:\Program Files\J5OLT\STANDART\j5v03g21.bin | 05-30-2001 | 13:54:20 | | 65536 | 331581a4
+Made Dir: C:\Program Files\J5OLT\CTE
+File Copy: C:\Program Files\J5OLT\CTE\maf_3855.cte | 05-23-2003 | 16:43:06 | | 2315 | a60e8d58
+File Copy: C:\Program Files\J5OLT\CTE\maf_037.cte | 05-23-2003 | 16:42:36 | | 2722 | c139da07
+File Copy: C:\Program Files\J5OLT\CTE\maf_004.cte | 05-23-2003 | 16:42:10 | | 2748 | 6869aa51
+Made Dir: C:\Program Files\J5OLT\CAL_MOVER
+File Copy: C:\Program Files\J5OLT\CAL_MOVER\readme.txt | 03-30-2005 | 19:33:52 | | 809 | 23ae5666
+File Copy: C:\Program Files\J5OLT\CAL_MOVER\cal_mover.exe | 11-03-2003 | 18:04:48 | | 20992 | 7b380afa
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\readme.txt | 11-18-2004 | 11:59:58 | | 1133 | c84bb1dc
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V13L05_f.bir | 04-14-2004 | 01:15:54 | | 65536 | 8d50219a
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V13L05.bir | 04-14-2004 | 01:14:42 | | 65536 | bfc6adbb
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5v13i02_f.bir | 04-14-2004 | 01:15:52 | | 65536 | 5be99e9c
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5v13i02.bir | 04-14-2004 | 01:14:38 | | 65536 | 33ef4e5a
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V07G26_f.bir | 04-14-2004 | 01:15:50 | | 65536 | 82b1e4bc
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V07G26.bir | 04-14-2004 | 01:14:36 | | 65536 | 3a6e7885
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V05M30_f.bir | 04-14-2004 | 01:15:50 | | 65536 | 58530983
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V05M30.bir | 04-14-2004 | 01:14:32 | | 65536 | 3a8bd955
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V05L19_f.bir | 04-14-2004 | 01:15:48 | | 65536 | 537ca749
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V05L19.bir | 04-14-2004 | 01:14:28 | | 65536 | 6ba05115
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5v05j16_f.bir | 04-14-2004 | 01:15:46 | | 65536 | 4295b044
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5v05j16.bir | 04-14-2004 | 01:14:24 | | 65536 | 9008d573
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V05H16_f.bir | 04-14-2004 | 01:15:44 | | 65536 | 1606d6ea
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V05H16.bir | 04-14-2004 | 01:14:20 | | 65536 | c6a29652
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V03L25_f.bir | 04-14-2004 | 01:15:42 | | 65536 | efdbd31c
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\j5v03g21.bir | 04-14-2004 | 01:12:56 | | 65536 | 76d2649b
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\j5v03g21_f.bir | 04-14-2004 | 01:15:36 | | 65536 | acb44589
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5v03h21.bir | 04-14-2004 | 01:13:02 | | 65536 | 5bb61aaf
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5v03h21_f.bir | 04-14-2004 | 01:15:38 | | 65536 | 123b577b
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V03I21.bir | 04-14-2004 | 01:13:12 | | 65536 | 1618ce1
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5V03I21_f.bir | 04-14-2004 | 01:15:38 | | 65536 | 515bbb00
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5v03j21.bir | 04-14-2004 | 01:14:12 | | 65536 | 90fae21f
+File Copy: C:\Program Files\J5OLT\BIR-ENGINE\J5v03j21_f.bir | 04-14-2004 | 01:15:40 | | 65536 | a056a588
+File Copy: C:\Program Files\J5OLT\ctps.dll | 07-08-2004 | 00:52:20 | | 23552 | f09cacfb
+File Copy: C:\Program Files\J5OLT\J5OLT-Manual.pdf | 11-17-2004 | 20:57:36 | | 1916460 | 4636fe9a
+File Copy: C:\Program Files\J5OLT\j5tuner.cnt | 01-11-2005 | 11:34:28 | | 1563 | 50ecbbdf
+File Copy: C:\Program Files\J5OLT\j5tuner.hlp | 01-11-2005 | 11:34:56 | | 659875 | f918ad7d
+File Copy: C:\Program Files\J5OLT\j5tuner.ini | 12-27-2004 | 11:54:12 | | 98 | e917a4ea
+File Copy: C:\Program Files\J5OLT\j5tuner.lin | 07-08-2004 | 00:52:20 | | 3592 | 65fd9bd7
+File Copy: C:\Program Files\J5OLT\J5V03H21i.j5 | 07-08-2004 | 00:52:20 | | 104371 | 8ea6abeb
+File Copy: C:\Program Files\J5OLT\J5V03H21i_f.j5 | 07-08-2004 | 00:52:20 | | 104371 | 189811fb
+File Copy: C:\Program Files\J5OLT\J5V03J21i.j5 | 07-08-2004 | 00:52:20 | | 109160 | d2893370
+File Copy: C:\Program Files\J5OLT\J5V03J21i_f.j5 | 07-08-2004 | 00:52:20 | | 109160 | 44b78960
+File Copy: C:\Program Files\J5OLT\J5V03L25i.j5 | 07-08-2004 | 00:52:20 | | 108942 | d25d3fa3
+File Copy: C:\Program Files\J5OLT\J5V03L25i_f.j5 | 07-08-2004 | 00:52:20 | | 108942 | 36067ea2
+File Copy: C:\Program Files\J5OLT\J5V05H16i.j5 | 07-08-2004 | 00:52:20 | | 102379 | e184f2cb
+File Copy: C:\Program Files\J5OLT\J5V05H16i_f.j5 | 07-08-2004 | 00:52:20 | | 102379 | 3766421e
+File Copy: C:\Program Files\J5OLT\J5V05J16i.j5 | 07-08-2004 | 00:52:20 | | 107168 | 7e01814d
+File Copy: C:\Program Files\J5OLT\J5V05J16i_f.j5 | 07-08-2004 | 00:52:20 | | 107168 | a8e33198
+File Copy: C:\Program Files\J5OLT\J5V05L19i.j5 | 07-08-2004 | 00:52:20 | | 119321 | 4e3cc43b
+File Copy: C:\Program Files\J5OLT\J5V05L19i_f.j5 | 07-08-2004 | 00:52:20 | | 119321 | caf46d89
+File Copy: C:\Program Files\J5OLT\J5V05M30i.j5 | 07-08-2004 | 00:52:20 | | 121130 | 9b72306f
+File Copy: C:\Program Files\J5OLT\J5V05M30i_f.j5 | 07-08-2004 | 00:52:20 | | 121130 | d6e59fc0
+File Copy: C:\Program Files\J5OLT\J5V07G26i.j5 | 07-08-2004 | 00:52:20 | | 104069 | a55c9ca8
+File Copy: C:\Program Files\J5OLT\J5V07G26i_8inj.j5 | 07-08-2004 | 00:52:20 | | 104795 | d915622a
+File Copy: C:\Program Files\J5OLT\J5V07G26i_f.j5 | 07-08-2004 | 00:52:20 | | 104069 | 727e58b8
+File Copy: C:\Program Files\J5OLT\J5V07G26i_map.j5 | 07-08-2004 | 00:52:20 | | 107915 | 628c9a53
+File Copy: C:\Program Files\J5OLT\J5V07G26i_map_f.j5 | 07-08-2004 | 00:52:20 | | 107915 | 3d760f73
+File Copy: C:\Program Files\J5OLT\J5V07G26i_TAIR_f.j5 | 07-08-2004 | 00:52:20 | | 103830 | bd84d0ea
+File Copy: C:\Program Files\J5OLT\J5V13I02i.j5 | 07-08-2004 | 00:52:20 | | 91520 | 698d8f4b
+File Copy: C:\Program Files\J5OLT\J5V13I02i_f.j5 | 07-08-2004 | 00:52:20 | | 91520 | a153f03
+File Copy: C:\Program Files\J5OLT\J5V13L05i.j5 | 07-08-2004 | 00:52:20 | | 94564 | 8d50b948
+File Copy: C:\Program Files\J5OLT\J5V13L05i_f.j5 | 07-08-2004 | 00:52:20 | | 94564 | 973e93cd
+Shell Link: C:\Documents and Settings\Николай\Главное меню\Программы\J5OLT\J5OLT.lnk
+Link Info: C:\Program Files\J5OLT\UNWISE.EXE |  | C:\PROGRA~1\J5OLT\J5OLT.exe | 0 | 1 | 0 | /W1 "C:\Program Files\J5OLT\INSTALL.LOG"
+Shell Link: C:\Documents and Settings\Николай\Главное меню\Программы\J5OLT\cal_mover.lnk
+Link Info: C:\Program Files\J5OLT\UNWISE.EXE |  | C:\PROGRA~1\J5OLT\cal_mover\cal_mover.exe | 0 | 1 | 0 | /W2 "C:\Program Files\J5OLT\INSTALL.LOG"
+Shell Link: C:\Documents and Settings\Николай\Главное меню\Программы\J5OLT\j5tuner Help.lnk
+Link Info: C:\Program Files\J5OLT\UNWISE.EXE |  | %SystemRoot%\System32\shell32.dll | 23 | 1 | 0 | /W3 "C:\Program Files\J5OLT\INSTALL.LOG"
+Shell Link: C:\Documents and Settings\Николай\Рабочий стол\J5OLT.lnk
+Link Info: C:\Program Files\J5OLT\UNWISE.EXE |  | C:\PROGRA~1\J5OLT\J5OLT.exe | 0 | 1 | 0 | /W4 "C:\Program Files\J5OLT\INSTALL.LOG"
+Shell Link: C:\Documents and Settings\Николай\Главное меню\Программы\J5OLT\CombiLDR218.lnk
+Link Info: C:\Program Files\J5OLT\CombiLDR-218\CombiLDR218.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\Николай\Рабочий стол\CombiLDR218.lnk
+Link Info: C:\Program Files\J5OLT\CombiLDR-218\CombiLDR218.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Documents and Settings\Николай\Главное меню\Программы\J5OLT\CombiLDR210_Help.lnk
+Link Info: C:\Program Files\J5OLT\UNWISE.EXE |  | C:\PROGRA~1\J5OLT\CombiLDR-218\CombiLDR210_Help.exe | 0 | 1 | 0 | /W5 "C:\Program Files\J5OLT\INSTALL.LOG"
+Shell Link: C:\Documents and Settings\Николай\Рабочий стол\CombiLDR210_Help.lnk
+Link Info: C:\Program Files\J5OLT\UNWISE.EXE |  | C:\PROGRA~1\J5OLT\CombiLDR-218\CombiLDR210_Help.exe | 0 | 1 | 0 | /W6 "C:\Program Files\J5OLT\INSTALL.LOG"
+User Rights: Admin
